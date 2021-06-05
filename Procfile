@@ -1,0 +1,1 @@
+web gunicorn NBA_playoff_rank:app –preload
